@@ -46,10 +46,10 @@
       "name" : "Roblox",
       "bundleIdentifier" : "com.delta.roblox",
       "developerName" : "Roblox",
-      "subtitle" : "Roblox' delta executor!",
-      "localizedDescription" : "Delta Executor is one of the most popular Roblox exploits on the internet for all Roblox enthusiasts.",
+      "subtitle" : "Play and create experiences",
+      "localizedDescription" : "Explore a vast library of user-created experiences, from competitive games to social worlds.\n\nJoin millions of players, customise your avatar, and discover new ways to play every day.\nPowered by Delta.",
       "iconURL" : "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/d9/fc/b4d9fc91-b318-ab14-4d2c-f6e067afb081/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/400x400ia-75.webp",
-      "tintColor" : "0c63f9",
+      "tintColor" : "0C63F9",
       "category" : "Games",
       "screenshotURLs" : [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/e6/2c/20e62c34-73ac-46d0-576f-815d22f82736/ASO_Q1_26_Default_EEAO_2602_Apple_iPhone_SC1-B.jpg/460x998bb.webp",
@@ -76,7 +76,7 @@
     {
       "name" : "Beatstar",
       "bundleIdentifier" : "com.spaceape.beatstar",
-      "developerName" : "Beatclone mod devs",
+      "developerName" : "Spaceape",
       "subtitle" : "Touch your music.",
       "localizedDescription" : "Touch your music.",
       "iconURL" : "https://d1nxzqpcg2bym0.cloudfront.net/google_play/com.spaceapegames.beatstar/b96a15f8-f85f-11ec-9b71-3b3b298e6fb6/128x128",
@@ -108,7 +108,7 @@
       "subtitle" : "The classic open-world crime experience",
       "localizedDescription" : "Explore Liberty City in one of the most influential open-world games ever created.\n\nComplete missions, build your reputation, and experience the story that defined a generation of gaming.",
       "iconURL" : "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/8f/fc/3e8ffc9c-ac4a-9618-e9ce-ff4523de377d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/400x400ia-75.webp",
-      "tintColor" : "0b0b0b",
+      "tintColor" : "0B0B0B",
       "category" : "Games",
       "screenshotURLs" : [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/da/6b/4dda6bc0-0490-593e-5287-95571f7f0fd7/f25cabb3-865a-4f5a-9c7f-acc01edd6ff7_iPhone_GTATrilogy_GTA3_HUD_1_resize.png/1286x594bb.webp",
@@ -134,11 +134,11 @@
     {
       "name" : "Playdead's INSIDE",
       "bundleIdentifier" : "com.playdeadgames.inside",
-      "developerName" : "Playdead games",
+      "developerName" : "Playdead",
       "subtitle" : "From the creators of LIMBO",
       "localizedDescription" : "Hunted and alone, a boy finds himself drawn into the centre of a dark project. Discover Playdead's unique indie adventure game Inside, a dark, narrative-driven platformer combining intense action with challenging puzzles. It has received critical acclaim for its moody art style, ambient soundtrack and unsettling atmosphere. Apple Design Award Winner. What the press said: “MASTERPIECE! Inside is a 2D puzzle platformer that builds upon what made Limbo great, and in fact builds something greater.” IGN — 10/10 “Inside expands on the concepts and scope of its predecessor in wildly creative ways, and it's so immaculately designed and constructed from top to bottom that it almost feels suitable for display in an art museum. This is one hell of a follow-up.” Giant Bomb — 5/5 “Gorgeous art and animations, devious puzzle design and a pitch-black sense of humor. A perfectly paced series of escalating \"holy shit\" moments.” Kotaku Winner of more than 100 awards, including: - Artistic Achievement (BAFTA) - Game Design (BAFTA) - Narrative (BAFTA) - Original Property (BAFTA) - Best Independent Game (Game Critics Awards) - Best Independent Game (The Game Awards) - Best Art Direction (The Game Awards) - Spite Award (D.I.C.E. Awards) - Outstanding Achievement in Art Direction (D.I.C.E. Awards) - Outstanding Achievement in Game Direction (D.I.C.E. Awards) - Best Audio (Game Developers Choice Awards) - Best Visual Art (Game Developers Choice Awards)",
       "iconURL" : "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/eb/5f/d8eb5f59-8423-6d17-e9cb-d119b8f83c69/Placeholder.mill/400x400bb-75.webp",
-      "tintColor" : "d111c9",
+      "tintColor" : "D111C9",
       "category" : "Games",
       "screenshotURLs" : [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/bb/54/b0bb543f-760b-f0d9-4bd6-283f86b71e14/pr_source.jpg/1286x594bb.webp",
@@ -168,9 +168,9 @@
       "bundleIdentifier" : "com.google.ios.youtube",
       "developerName" : "Google",
       "subtitle" : "Videos, Music and Live Streams",
-      "localizedDescription" : "Get yourself the YouTube app now for iPhones & iPads.\nSee what the world is watching.",
+      "localizedDescription" : "Enjoy videos, music and live content from creators around the world.\n\nExperience a smoother and more flexible way to watch, with enhanced playback and fewer interruptions.\n\nDiscover what the world is watching, on your terms.",
       "iconURL" : "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e3/d7/ba/e3d7ba04-9b81-20d3-6f3a-b652fa4fe3ec/Placeholder.mill/400x400bb-75.webp",
-      "tintColor" : "0463ea",
+      "tintColor" : "0463EA",
       "category" : "Entertainment",
       "screenshotURLs" : [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/e0/9a/20e09afc-ad0c-bfbe-954b-d5b8d40c5401/91963c43-9224-4e3f-ae6c-ba3ac6de40cd_iOS-6.5-in_1.jpg/460x996bb.webp",
@@ -202,7 +202,7 @@
       "identifier" : "lemon-welcome",
       "caption" : "This is the repo you wished your entire life.",
       "date" : "2026-03-10",
-      "tintColor" : "e2e204",
+      "tintColor" : "E2E204",
       "imageURL" : "https://raw.githubusercontent.com/d4nilin0n-hue/lemonrepo/refs/heads/main/icon.png",
       "appID" : "lorem",
       "notify" : true
