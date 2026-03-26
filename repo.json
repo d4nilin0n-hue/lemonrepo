@@ -208,10 +208,10 @@
       "notify" : true
     },
     {
-        "title": "Editor's choice",
+        "title": "Editor's Choice",
         "identifier": "com.playdeadgames.inside",
         "caption": "Atmospheric, unsettling, unforgettable. Play INSIDE.",
-        "date": "2025-03-09",
+        "date": "2026-03-09",
         "tintColor": "5E5CE6",
         "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/eb/5f/d8eb5f59-8423-6d17-e9cb-d119b8f83c69/Placeholder.mill/400x400bb-75.webp",
         "appID": "com.playdeadgames.inside",
