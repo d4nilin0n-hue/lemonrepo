@@ -8,8 +8,8 @@
   "website" : "https://github.com/d4nilin0n-hue/",
   "tintColor" : "FFD95A",
   "featuredApps" : [
-    "com.mojang.minecraftpe",
-    "com.burbn.instagram",
+    "com.spotify.client",
+    "com.delta.roblox",
     "com.google.ios.youtube",
     "com.box.hd.flix.drama.hub",
     "com.duolingo.DuolingoMobile"
@@ -31,9 +31,15 @@
       "versionDate" : "2026-03-10",
       "downloadURL" : "https://dn721906.ca.archive.org/0/items/minecraft-1.21.131-13.0-le-ti/Minecraft_1.21.131_13.0_LeTi.ipa",
       "versionDescription" : "Various bug fixes!",
-      "size" : 400000000,
+      "size" : 12000000,
       "versions" : [
-        
+        {
+          "version" : "26.10",
+          "date" : "2025-03-10",
+          "localizedDescription" : "Various bug fixes!",
+          "downloadURL" : "https://dn721906.ca.archive.org/0/items/minecraft-1.21.131-13.0-le-ti/Minecraft_1.21.131_13.0_LeTi.ipa",
+          "size" : 12000000
+        }
       ],
       "appPermissions" : {
         
@@ -41,61 +47,32 @@
       "beta" : false
     },
     {
-      "name" : "X++",
-      "bundleIdentifier" : "com.atebits.Tweetie2",
-      "developerName" : "Densor",
-      "subtitle" : "An new tweak for X!",
+      "name" : "Roblox",
+      "bundleIdentifier" : "com.delta.roblox",
+      "developerName" : "Roblox",
+      "subtitle" : "Roblox' delta executor!",
       "localizedDescription" : "Features:\n\n• Download Videos (even if account private).\n• Replay later feature.\n• Video zoom feature.\n• No history feature.\n• Hide topics tweet feature.\n• Disable video layer caption.\n• Padlock.\n• Font changer.\n• Auto load photos in highest quality feature\n• Undo tweet feature.\n• Reader mode feature.\n• Disable new tweet style (A.K.A edge to edge tweet)\n• Enable voice tweet and voice message in DM.\n• Hide promoted tweet from the timeline.\n• Confirm alert when hit the tweet button.\n• Confirm alert when hit like button.\n• FLEX for debugging.\n\n• And more!",
-      "iconURL" : "https://i.imgur.com/HjyhiOC.jpeg",
+      "iconURL" : "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/d9/fc/b4d9fc91-b318-ab14-4d2c-f6e067afb081/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/400x400ia-75.webp",
       "tintColor" : "030303",
-      "category" : "Social",
+      "category" : "Games",
       "screenshotURLs" : [
-        "https://img.ipa4fun.com/fe/b5/38/333903271-screenshot-1.webp",
-        "https://img.ipa4fun.com/fe/b5/38/333903271-screenshot-2.webp",
-        "https://img.ipa4fun.com/fe/b5/38/333903271-screenshot-3.webp",
-        "https://img.ipa4fun.com/fe/b5/38/333903271-screenshot-4.webp",
-        "https://img.ipa4fun.com/fe/b5/38/333903271-screenshot-5.webp"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/e6/2c/20e62c34-73ac-46d0-576f-815d22f82736/ASO_Q1_26_Default_EEAO_2602_Apple_iPhone_SC1-B.jpg/460x998bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/66/a0/1f/66a01fcd-89d1-0154-0086-2a75346c7514/ASO_Q1_26_Default_EEAO_2602_Apple_iPhone_SC2-C.jpg/460x998bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2a/83/58/2a835802-d5d9-98a7-8e67-24c24be9f6f8/ASO_Q1_26_Default_EEAO_2602_Apple_iPhone_SC3.jpg/460x998bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/59/d6/ff/59d6ff04-23a6-c5dd-0867-138a5df9a740/ASO_Q1_26_Default_EEAO_2602_Apple_iPhone_SC4.jpg/460x998bb.webp"
       ],
-      "version" : "10.83",
+      "version" : "2.713.909",
       "versionDate" : "2025-03-04",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/X.v10.83.+.TwiGalaxy.v1.1.ipa",
+      "downloadURL" : "https://deltaexecutor.filesadda.com/DeltaiOS-2.713.ipa",
       "versionDescription" : "• Updated X to v10.83\n• Replaced BHTwitter with TwiGalaxy",
-      "size" : 119000000,
+      "size" : 235000000,
       "versions" : [
         {
-          "version" : "10.83",
+          "version" : "2.713.909",
           "date" : "2025-03-04",
-          "localizedDescription" : "• Updated X to v10.83\n• Replaced BHTwitter with TwiGalaxy",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/X.v10.83.+.TwiGalaxy.v1.1.ipa",
-          "size" : 119000000
-        },
-        {
-          "version" : "10.62",
-          "date" : "2024-10-09",
-          "localizedDescription" : "• Updated X to v10.62\n• Updated BHTwitter to v4.3-4",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Twitter.v10.62.+.BHTwitter.v4.3-4.ipa",
-          "size" : 119000000
-        },
-        {
-          "version" : "10.39.0",
-          "date" : "2024-04-30",
-          "localizedDescription" : "• Updated X to v10.39.0",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Twitter.v10.39.+.BHX.v4.3.ipa",
-          "size" : 93000000
-        },
-        {
-          "version" : "10.22.0",
-          "date" : "2024-01-07",
-          "localizedDescription" : "• Updated X to v10.22.0",
-          "downloadURL" : "https://starfilesdl.com/file/m1rSEUEHz83q?fpdi_ticket=RXgrRkx5dHhGcmJrcFVtVVh4VmtaZE1VdHZLN0trTng2SUY3NTdWekErY2wwOTYwMlBYRUJvMFJKVjlqLyszWXQ1d2pxeHhhc2dJQVBRQ28zSDFVUXdqYTRSMXlDajcySmxBcG9lRlZYVnVxaDA1ZWxsNjJnWCtSNlFqWVpXdmNDZWJBNFpmY3VZZVNGa1BsRFYyQ01nPT0%3D",
-          "size" : 93000000
-        },
-        {
-          "version" : "10.10.0",
-          "date" : "2023-10-19",
-          "localizedDescription" : "• Updated X to v10.10.0",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Twitter.X.v10.10.+.BHX.v4.0.ipa",
-          "size" : 93000000
+          "localizedDescription" : "Bug fixes",
+          "downloadURL" : "https://deltaexecutor.filesadda.com/DeltaiOS-2.713.ipa",
+          "size" : 235000000
         }
       ],
       "beta" : false
