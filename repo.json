@@ -20,7 +20,7 @@
       "bundleIdentifier" : "com.mojang.minecraftpe",
       "developerName" : "Mojang",
       "subtitle" : "Build, explore and survive in infinite worlds",
-      "localizedDescription" : "WHEN YOU FIRST OPEN THE APP IT WILL LOOK LIKE A DIFFERENT APP JUST WAIT AND IT WILL CHANGE TO THE MOVIE APP\n\nWith HD Flix for iOS you can able to watch any movie/tv show. The User Interface that you see in the app is truly the best thing about it. Easy navigation and responsive design made it stand at the top of the list.\n\nIt will display all the trending content from Action, Comedy, Sci-Fi and other genres at the home page for the best user experience. Moreover, you will get to read the complete information about any particular movie including IMDB Rating, Year Of Release, Start Cast, etc.",
+      "localizedDescription" : "Minecraft is a sandbox game where players can explore procedurally generated worlds, gather resources, craft tools, and build structures.\n\nChoose between Creative mode for unlimited building or Survival mode where you must manage resources, fight mobs, and stay alive.\n\nPlay solo or join friends in multiplayer worlds and experience endless possibilities.",
       "iconURL" : "https://i.imgur.com/3tQFB9N.png",
       "tintColor" : "a01916",
       "category" : "Entertainment",
@@ -767,8 +767,8 @@
       "caption" : "This is the repo you wished your entire life.",
       "date" : "2026-03-10",
       "tintColor" : "#e2e204",
-      "imageURL" : "",
-      "appID" : "",
+      "imageURL" : "lorem",
+      "appID" : "lorem",
       "notify" : true
     }
   ]
