@@ -135,10 +135,11 @@
       "name" : "Playdead's INSIDE",
       "bundleIdentifier" : "com.playdeadgames.inside",
       "developerName" : "Playdead games",
+      "subtitle" : "From the creators of LIMBO",
       "localizedDescription" : "Hunted and alone, a boy finds himself drawn into the centre of a dark project. Discover Playdead's unique indie adventure game Inside, a dark, narrative-driven platformer combining intense action with challenging puzzles. It has received critical acclaim for its moody art style, ambient soundtrack and unsettling atmosphere. Apple Design Award Winner. What the press said: “MASTERPIECE! Inside is a 2D puzzle platformer that builds upon what made Limbo great, and in fact builds something greater.” IGN — 10/10 “Inside expands on the concepts and scope of its predecessor in wildly creative ways, and it's so immaculately designed and constructed from top to bottom that it almost feels suitable for display in an art museum. This is one hell of a follow-up.” Giant Bomb — 5/5 “Gorgeous art and animations, devious puzzle design and a pitch-black sense of humor. A perfectly paced series of escalating \"holy shit\" moments.” Kotaku Winner of more than 100 awards, including: - Artistic Achievement (BAFTA) - Game Design (BAFTA) - Narrative (BAFTA) - Original Property (BAFTA) - Best Independent Game (Game Critics Awards) - Best Independent Game (The Game Awards) - Best Art Direction (The Game Awards) - Spite Award (D.I.C.E. Awards) - Outstanding Achievement in Art Direction (D.I.C.E. Awards) - Outstanding Achievement in Game Direction (D.I.C.E. Awards) - Best Audio (Game Developers Choice Awards) - Best Visual Art (Game Developers Choice Awards)",
       "iconURL" : "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/eb/5f/d8eb5f59-8423-6d17-e9cb-d119b8f83c69/Placeholder.mill/400x400bb-75.webp",
       "tintColor" : "d111c9",
-      "category" : "Social",
+      "category" : "Games",
       "screenshotURLs" : [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/bb/54/b0bb543f-760b-f0d9-4bd6-283f86b71e14/pr_source.jpg/1286x594bb.webp",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/0f/d9/060fd99e-6694-6881-db94-36c21f0d9427/pr_source.jpg/1286x594bb.webp",
@@ -170,7 +171,7 @@
       "localizedDescription" : "Get yourself the YouTube app now for iPhones & iPads.\nSee what the world is watching.",
       "iconURL" : "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e3/d7/ba/e3d7ba04-9b81-20d3-6f3a-b652fa4fe3ec/Placeholder.mill/400x400bb-75.webp",
       "tintColor" : "0463ea",
-      "category" : "Social",
+      "category" : "Entertainment",
       "screenshotURLs" : [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/e0/9a/20e09afc-ad0c-bfbe-954b-d5b8d40c5401/91963c43-9224-4e3f-ae6c-ba3ac6de40cd_iOS-6.5-in_1.jpg/460x996bb.webp",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/47/80/1b4780c9-4cfd-1295-30c7-cbac2ee9f5d3/30797521-a83b-484b-ba8c-9e70626e258a_iOS-6.5-in_2.jpg/460x996bb.webp",
@@ -201,7 +202,7 @@
       "identifier" : "lemon-welcome",
       "caption" : "This is the repo you wished your entire life.",
       "date" : "2026-03-10",
-      "tintColor" : "#e2e204",
+      "tintColor" : "e2e204",
       "imageURL" : "https://raw.githubusercontent.com/d4nilin0n-hue/lemonrepo/refs/heads/main/icon.png",
       "appID" : "lorem",
       "notify" : true
