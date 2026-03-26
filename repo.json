@@ -8,7 +8,7 @@
   "website" : "https://github.com/d4nilin0n-hue/",
   "tintColor" : "FFD95A",
   "featuredApps" : [
-    "com.spotify.client",
+    "com.mojang.minecraftpe",
     "com.delta.roblox",
     "com.google.ios.youtube",
     "com.box.hd.flix.drama.hub",
@@ -31,14 +31,14 @@
       "versionDate" : "2026-03-10",
       "downloadURL" : "https://dn721906.ca.archive.org/0/items/minecraft-1.21.131-13.0-le-ti/Minecraft_1.21.131_13.0_LeTi.ipa",
       "versionDescription" : "Various bug fixes!",
-      "size" : 12000000,
+      "size" : 1200000000,
       "versions" : [
         {
           "version" : "26.10",
           "date" : "2025-03-10",
           "localizedDescription" : "Various bug fixes!",
           "downloadURL" : "https://dn721906.ca.archive.org/0/items/minecraft-1.21.131-13.0-le-ti/Minecraft_1.21.131_13.0_LeTi.ipa",
-          "size" : 12000000
+          "size" : 1200000000
         }
       ],
       "appPermissions" : {
@@ -78,11 +78,11 @@
       "beta" : false
     },
     {
-      "name" : "Facebook++",
-      "bundleIdentifier" : "com.facebook.Facebook",
+      "name" : "Beastar",
+      "bundleIdentifier" : "com.spaceape.beatstar",
       "developerName" : "Michael Lema",
-      "subtitle" : "Facebook with a number of new features!",
-      "localizedDescription" : "Facebook Wolf brings a number of new features to Facebook such as:\n\nUser\n• Disable marking messages as seen\n• Disable typing status in messages\n• No feed ads\n\nStory\n• Disable marking stories\n• Disable auto-advance in stories\n• Save Story images and videos\n• No story ads (Not working)\n\nFeed\n• Save Feed videos by long-pressing the video\n\nAnd more!",
+      "subtitle" : "Touch your music.",
+      "localizedDescription" : "Touch your music.",
       "iconURL" : "https://img.ipa4fun.com/92/c2/a0/284882215-logo.webp",
       "tintColor" : "0c63f9",
       "category" : "Social",
@@ -94,39 +94,18 @@
         "https://img.ipa4fun.com/92/c2/a0/284882215-screenshot-5.webp",
         "https://img.ipa4fun.com/92/c2/a0/284882215-screenshot-6.webp"
       ],
-      "version" : "502.2.0",
+      "version" : "1.0",
       "versionDate" : "2025-03-04",
-      "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Facebook.v502.2.0.+.Wolf.v2.1.ipa",
-      "versionDescription" : "• Updated Facebook to v502.2.0",
-      "size" : 137000000,
+      "downloadURL" : "",
+      "versionDescription" : "Beatstar revival",
+      "size" : 167000000,
       "versions" : [
         {
-          "version" : "502.2.0",
+          "version" : "1.0",
           "date" : "2025-03-04",
-          "localizedDescription" : "• Updated Facebook to v502.2.0",
+          "localizedDescription" : "Beatstar revival",
           "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Facebook.v502.2.0.+.Wolf.v2.1.ipa",
-          "size" : 137000000
-        },
-        {
-          "version" : "461.0.3",
-          "date" : "2024-04-30",
-          "localizedDescription" : "• Updated Facebook to v461.0.3",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Facebook.v461.0.3.+.Wolf.v2.1.ipa",
-          "size" : 137000000
-        },
-        {
-          "version" : "438.2",
-          "date" : "2024-01-07",
-          "localizedDescription" : "• Updated Facebook to v438.2",
-          "downloadURL" : "https://starfilesdl.com/file/ifrp2geRDxVH?fpdi_ticket=RXgrRkx5dHhGcmJrcFVtVVh4VmtaUkVlN3hwYmJ3b1dibXNIUDNMLzdzTEthQXRjdFh3WlNWUXBaTXhiMVp1cHVHcDZNZlRpa1lxZ21nZEZmODFqdVljT3I2T0JweDZoODFpN0hOZG12TThwdUNac29ZNm5XZVNUakNrVmlwOEdJSnh5RHV1MEE3d0d4ajJsbGNGanpnPT0%3D",
-          "size" : 133000000
-        },
-        {
-          "version" : "435.2",
-          "date" : "2023-10-19",
-          "localizedDescription" : "• Updated Facebook to v435.2",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Facebook.v435.2.+.Wolf.v2.1.ipa",
-          "size" : 133000000
+          "size" : 167000000
         }
       ],
       "beta" : false
