@@ -80,21 +80,21 @@
       "subtitle" : "Touch your music.",
       "localizedDescription" : "Touch your music.",
       "iconURL" : "https://d1nxzqpcg2bym0.cloudfront.net/google_play/com.spaceapegames.beatstar/b96a15f8-f85f-11ec-9b71-3b3b298e6fb6/128x128",
-      "tintColor" : "#0c63f9",
-      "category" : "Social",
+      "tintColor" : "0C63F9",
+      "category" : "Games",
       "screenshotURLs" : [
         "https://img.ipa4fun.com/92/c2/a0/284882215-screenshot-1.png"
       ],
       "version" : "1.0",
       "versionDate" : "2025-03-04",
       "downloadURL" : "https://media.githubusercontent.com/media/d4nilin0n-hue/lemonrepo/refs/heads/main/ipas/games/Beatclone.ipa",
-      "versionDescription" : "Beatstar revival",
+      "versionDescription" : "Beatstar revival build",
       "size" : 167000000,
       "versions" : [
         {
           "version" : "1.0",
           "date" : "2025-03-04",
-          "localizedDescription" : "Beatstar revival",
+          "localizedDescription" : "Beatstar revival build",
           "downloadURL" : "https://media.githubusercontent.com/media/d4nilin0n-hue/lemonrepo/refs/heads/main/ipas/games/Beatclone.ipa",
           "size" : 167000000
         }
@@ -105,8 +105,8 @@
       "name" : "GTA III",
       "bundleIdentifier" : "com.rockstar.gta3",
       "developerName" : "Rockstar Games",
-      "subtitle" : "Download and Play GTA III",
-      "localizedDescription" : "idk what to put in here",
+      "subtitle" : "The classic open-world crime experience",
+      "localizedDescription" : "Explore Liberty City in one of the most influential open-world games ever created.\n\nComplete missions, build your reputation, and experience the story that defined a generation of gaming.",
       "iconURL" : "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/8f/fc/3e8ffc9c-ac4a-9618-e9ce-ff4523de377d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/400x400ia-75.webp",
       "tintColor" : "0b0b0b",
       "category" : "Games",
