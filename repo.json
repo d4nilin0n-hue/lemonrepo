@@ -21,32 +21,19 @@
       "developerName" : "Mojang",
       "subtitle" : "Build, explore and survive in infinite worlds",
       "localizedDescription" : "Minecraft is a sandbox game where players can explore procedurally generated worlds, gather resources, craft tools, and build structures.\n\nChoose between Creative mode for unlimited building or Survival mode where you must manage resources, fight mobs, and stay alive.\n\nPlay solo or join friends in multiplayer worlds and experience endless possibilities.",
-      "iconURL" : "https://i.imgur.com/3tQFB9N.png",
-      "tintColor" : "a01916",
-      "category" : "Entertainment",
+      "iconURL" : "https://minecraft.wiki/images/Bedrock_Edition_App_Store_icon_2.png?ec415",
+      "tintColor" : "62B047",
+      "category" : "Games",
       "screenshotURLs" : [
-        "https://i.imgur.com/MKWusvU.png"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/79/ca/8a/79ca8aec-2c59-83d4-065d-f0b19aa57880/c57609fe-03c2-4064-9633-24ce513d46e5_0x0ss.png/1286x594bb.webp"
       ],
-      "version" : "2.0",
-      "versionDate" : "2025-03-10",
+      "version" : "26.0",
+      "versionDate" : "2026-03-10",
       "downloadURL" : "https://dn721906.ca.archive.org/0/items/minecraft-1.21.131-13.0-le-ti/Minecraft_1.21.131_13.0_LeTi.ipa",
-      "versionDescription" : "• Updated HD Flix to v2.0",
-      "size" : 2800000,
+      "versionDescription" : "Various bug fixes!",
+      "size" : 400000000,
       "versions" : [
-        {
-          "version" : "2.0",
-          "date" : "2025-03-10",
-          "localizedDescription" : "• Updated HD Flix",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/HD.Flix.No.Ads.v2.0.ipa",
-          "size" : 2800000
-        },
-        {
-          "version" : "1.0",
-          "date" : "2024-05-11",
-          "localizedDescription" : "• Added HD Flix v5.0",
-          "downloadURL" : "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/HD.Flix.v5.0.ipa",
-          "size" : 2940000
-        }
+        
       ],
       "appPermissions" : {
         "entitlements" : [
