@@ -165,7 +165,10 @@
         "entitlements": [
           "com.apple.developer.game-center",
           "com.apple.developer.icloud-container-identifiers",
-          "com.apple.developer.ubiquity-kvstore-identifier"
+          "com.apple.developer.ubiquity-kvstore-identifier",
+          "com.apple.security.application-groups",
+          "keychain-access-groups",
+          "aps-environment"
         ]
       },
       "beta" : false
