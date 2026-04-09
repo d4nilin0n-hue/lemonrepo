@@ -4,7 +4,7 @@
   "subtitle" : "Lemon's official repo.",
   "description" : "LemonRepo is a curated library of high-quality iOS apps and games, focused on performance, stability, and real-world usability.\n\nNo clutter. No junk. Just the essentials.",
   "iconURL" : "https://raw.githubusercontent.com/d4nilin0n-hue/lemonrepo/refs/heads/main/icon.png",
-  "headerURL" : "https://i.imgur.com/stTk5jP.jpeg",
+  "headerURL" : "https://raw.githubusercontent.com/atdaniellimon/lemonrepo/refs/heads/main/icon.png",
   "website" : "https://github.com/atdaniellimon/",
   "tintColor" : "FFD95A",
   "featuredApps" : [
